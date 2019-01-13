@@ -1,12 +1,18 @@
 # ColorsTable
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6. Use Angular Material (Angular CDK, Angular Animations).
+This table with 2 columns: 1. Color name, 2. Color (use background).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6. This table with 2 columns: 1. Color name, 2. Color (use background).
+To setup project run this script in project folder
 
-## Development server
+```
+$ npm install
+```
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+to run project use this command
+```
+$ ng serve
+```
 
-## Build
+go to http://localhost:4200
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
- 
+and enjoy my site :)
